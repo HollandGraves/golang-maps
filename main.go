@@ -1,0 +1,15 @@
+package main
+
+// IMPORTS GO HERE
+
+// STRUCTS GO HERE
+
+// MAPS GO HERE
+
+// MAIN GOES HERE
+
+func main() {
+
+}
+
+// USER DEFINED FUNCTIONS GO HERE
